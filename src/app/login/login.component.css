@@ -1,0 +1,11 @@
+.login-content{
+	display: flex;
+    flex-direction: column;
+}
+.login-content button {
+    width: 5rem;
+    align-self: center;
+}
+.login-hdr{
+    padding-bottom: 20px;
+}

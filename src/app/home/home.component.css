@@ -1,0 +1,9 @@
+.login-content{
+	display: flex;
+    flex-direction: column;
+	margin:20px;
+}
+.login-content button {
+width: 5rem;
+    align-self: center;
+}
